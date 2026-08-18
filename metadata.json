@@ -1,0 +1,6 @@
+{
+  "name": "MEERUTSPORTS",
+  "description": "Authentic sports gear & equipment store with full-stack admin catalog management, persistent multi-browser database, UPI payment verification, and customer accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
